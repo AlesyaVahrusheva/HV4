@@ -1,0 +1,15 @@
+C:\Users\locadmin\Desktop\семинары\HV4\obj\Debug\net6.0\HV4.csproj.AssemblyReference.cache
+C:\Users\locadmin\Desktop\семинары\HV4\obj\Debug\net6.0\HV4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\locadmin\Desktop\семинары\HV4\obj\Debug\net6.0\HV4.AssemblyInfoInputs.cache
+C:\Users\locadmin\Desktop\семинары\HV4\obj\Debug\net6.0\HV4.AssemblyInfo.cs
+C:\Users\locadmin\Desktop\семинары\HV4\obj\Debug\net6.0\HV4.csproj.CoreCompileInputs.cache
+C:\Users\locadmin\Desktop\семинары\HV4\bin\Debug\net6.0\HV4.exe
+C:\Users\locadmin\Desktop\семинары\HV4\bin\Debug\net6.0\HV4.deps.json
+C:\Users\locadmin\Desktop\семинары\HV4\bin\Debug\net6.0\HV4.runtimeconfig.json
+C:\Users\locadmin\Desktop\семинары\HV4\bin\Debug\net6.0\HV4.dll
+C:\Users\locadmin\Desktop\семинары\HV4\bin\Debug\net6.0\HV4.pdb
+C:\Users\locadmin\Desktop\семинары\HV4\obj\Debug\net6.0\HV4.dll
+C:\Users\locadmin\Desktop\семинары\HV4\obj\Debug\net6.0\refint\HV4.dll
+C:\Users\locadmin\Desktop\семинары\HV4\obj\Debug\net6.0\HV4.pdb
+C:\Users\locadmin\Desktop\семинары\HV4\obj\Debug\net6.0\HV4.genruntimeconfig.cache
+C:\Users\locadmin\Desktop\семинары\HV4\obj\Debug\net6.0\ref\HV4.dll
